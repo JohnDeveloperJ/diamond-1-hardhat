@@ -1,5 +1,8 @@
 # Diamond-1-Hardhat Implementation
 
+![theworldeater_Yellow_Hard_Hat_and_high-definition_3D_animated__c871c9fc-b314-4379-8d3a-8f287919dcf8](https://github.com/JohnDeveloperJ/diamond-1-hardhat/assets/143453887/ee11381c-4a82-4d06-a63e-24cb0183eed0)
+
+
 This is a reference implementation for [EIP-2535 Diamonds](https://github.com/ethereum/EIPs/issues/2535). To learn about other implementations go here: https://github.com/mudgen/diamond
 
 **Note:** The loupe functions in DiamondLoupeFacet.sol MUST be added to a diamond and are required by the EIP-2535 Diamonds standard.
